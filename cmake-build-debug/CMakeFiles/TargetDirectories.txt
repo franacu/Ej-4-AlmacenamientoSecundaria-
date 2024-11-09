@@ -1,0 +1,3 @@
+/Users/fran/Documents/Paradigmas de Programacion 2/ej3-Archivos/cmake-build-debug/CMakeFiles/ej3_Archivos.dir
+/Users/fran/Documents/Paradigmas de Programacion 2/ej3-Archivos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fran/Documents/Paradigmas de Programacion 2/ej3-Archivos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
